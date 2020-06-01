@@ -1,5 +1,7 @@
 # vuetify-dashboard
 
+![](KxYiyTEtJw.gif)
+
 ## Project setup
 ```
 npm install
